@@ -4,4 +4,5 @@ q_key = keyboard_check(ord("Q"));
 w_key = keyboard_check_pressed(ord("W"));
 e_key = keyboard_check(ord("E"));
 r_key = keyboard_check_pressed(ord("R"));
+s_key = keyboard_check_pressed(ord("S"));
 rmouse = mouse_check_button(mb_right);
